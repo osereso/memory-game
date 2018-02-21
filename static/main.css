@@ -1,0 +1,22 @@
+body {
+    margin: 0 auto;
+    width: 60%;
+    padding: auto;
+    margin-top: 50px;
+    font-family: 'Candal';
+    font-size: 16px;
+    background: url("https://i.imgur.com/cc95MzO.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+.memory_card {
+    padding: auto;
+    width: auto;
+    text-align: center;
+}
+
+.icons {
+    vertical-align: middle;
+}
